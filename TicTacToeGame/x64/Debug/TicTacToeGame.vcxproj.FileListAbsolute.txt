@@ -1,0 +1,5 @@
+C:\Users\demen\OneDrive\Рабочий стол\Институт\TicTacToeGame\x64\Debug\TicTacToeGame.vcxproj.AssemblyReference.cache
+C:\Users\demen\OneDrive\Рабочий стол\Институт\TicTacToeGame\x64\Debug\TicTacToeGame.GameForm.resources
+C:\Users\demen\OneDrive\Рабочий стол\Институт\TicTacToeGame\x64\Debug\TicTacToeGame.StartForm.resources
+C:\Users\demen\OneDrive\Рабочий стол\Институт\TicTacToeGame\x64\Debug\TicTacToeGame.vcxproj.GenerateResource.cache
+C:\Users\demen\OneDrive\Рабочий стол\Институт\TicTacToeGame\x64\Debug\TicTacToeGame.exe
